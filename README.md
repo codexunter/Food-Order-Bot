@@ -1,6 +1,4 @@
 # Order food online
 
-This app includes two bots. Webapp.py is for users to make orders,
+There are 2 bots. Webapp.py is for users to make orders,
 whereas Control.py is for managers to see actual orders
-
-[Follow the link to watch](https://coder1382.github.io/WEB-App-TeleBot/)
